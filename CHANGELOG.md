@@ -4,6 +4,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+* Fork project, add my own workflow and update sample and readme
 
 ## [v1.4.0] (2018-02-27)
 * Update search to key off of name_with_namespace and path_with_namespace
